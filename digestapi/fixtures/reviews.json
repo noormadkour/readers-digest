@@ -1,0 +1,157 @@
+[
+    {
+      "model": "digestapi.review",
+      "pk": 1,
+      "fields": {
+        "book": 2,
+        "user": 1,
+        "rating": 9,
+        "comment": "An amazing read! Couldn't put it down.",
+        "date": "2023-11-09"
+      }
+    },
+    {
+      "model": "digestapi.review",
+      "pk": 2,
+      "fields": {
+        "book": 2,
+        "user": 1,
+        "rating": 8,
+        "comment": "Enjoyed the plot twists. A must-read!",
+        "date": "2023-11-10"
+      }
+    },
+    {
+      "model": "digestapi.review",
+      "pk": 3,
+      "fields": {
+        "book": 3,
+        "user": 1,
+        "rating": 9,
+        "comment": "Fascinating journey through history. Highly recommended.",
+        "date": "2023-11-11"
+      }
+    },
+    {
+      "model": "digestapi.review",
+      "pk": 4,
+      "fields": {
+        "book": 3,
+        "user": 1,
+        "rating": 6,
+        "comment": "Interesting concepts, but a bit dense at times.",
+        "date": "2023-11-12"
+      }
+    },
+    {
+      "model": "digestapi.review",
+      "pk": 5,
+      "fields": {
+        "book": 4,
+        "user": 1,
+        "rating": 8,
+        "comment": "Epic science fiction adventure. Can't wait for the sequel!",
+        "date": "2023-11-13"
+      }
+    },
+    {
+      "model": "digestapi.review",
+      "pk": 6,
+      "fields": {
+        "book": 4,
+        "user": 1,
+        "rating": 9,
+        "comment": "Masterfully crafted world and characters. A sci-fi masterpiece.",
+        "date": "2023-11-14"
+      }
+    },
+    {
+      "model": "digestapi.review",
+      "pk": 7,
+      "fields": {
+        "book": 5,
+        "user": 1,
+        "rating": 7,
+        "comment": "Intriguing mystery, but the ending left me wanting more.",
+        "date": "2023-11-15"
+      }
+    },
+    {
+      "model": "digestapi.review",
+      "pk": 8,
+      "fields": {
+        "book": 5,
+        "user": 1,
+        "rating": 8,
+        "comment": "Captivating from start to finish. A solid thriller.",
+        "date": "2023-11-16"
+      }
+    },
+    {
+      "model": "digestapi.review",
+      "pk": 9,
+      "fields": {
+        "book": 6,
+        "user": 1,
+        "rating": 9,
+        "comment": "A timeless classic. Jane Austen's wit shines through.",
+        "date": "2023-11-17"
+      }
+    },
+    {
+      "model": "digestapi.review",
+      "pk": 10,
+      "fields": {
+        "book": 6,
+        "user": 1,
+        "rating": 8,
+        "comment": "Delightful characters and a charming love story.",
+        "date": "2023-11-18"
+      }
+    },
+    {
+      "model": "digestapi.review",
+      "pk": 11,
+      "fields": {
+        "book": 7,
+        "user": 1,
+        "rating": 8,
+        "comment": "Hilarious and thought-provoking. Don't forget your towel!",
+        "date": "2023-11-19"
+      }
+    },
+    {
+      "model": "digestapi.review",
+      "pk": 12,
+      "fields": {
+        "book": 7,
+        "user": 1,
+        "rating": 9,
+        "comment": "An intergalactic journey filled with humor and absurdity.",
+        "date": "2023-11-20"
+      }
+    },
+    {
+      "model": "digestapi.review",
+      "pk": 13,
+      "fields": {
+        "book": 8,
+        "user": 1,
+        "rating": 8,
+        "comment": "Insightful biography of a visionary. A must-read for tech enthusiasts.",
+        "date": "2023-11-21"
+      }
+    },
+    {
+      "model": "digestapi.review",
+      "pk": 14,
+      "fields": {
+        "book": 8,
+        "user": 1,
+        "rating": 9,
+        "comment": "Compelling and well-researched. Isaacson captures Jobs' essence.",
+        "date": "2023-11-22"
+      }
+    }
+  ]
+  

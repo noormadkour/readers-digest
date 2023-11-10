@@ -1,4 +1,4 @@
-from .books import Book
+from .book import Book
 from .bookCategory import BookCategory
-from .categories import Category
-from .reviews import Review
+from .category import Category
+from .review import Review
